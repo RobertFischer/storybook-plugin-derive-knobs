@@ -1,0 +1,10 @@
+{
+  "name": "storybook-plugin-derive-knobs",
+  "version": "1.0.0",
+  "description": "Automatically derive Storybook knobs from React propTypes",
+  "main": "index.js",
+  "repository": "https://github.com/RobertFischer/storybook-plugin-derive-knobs",
+  "author": "Robert Fischer",
+  "license": "MIT",
+  "private": false
+}
